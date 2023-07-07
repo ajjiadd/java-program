@@ -25,6 +25,6 @@ public class switch_xm1 {
             break;
 
         }
-        System.out.println();
+        
     }
 }
