@@ -30,6 +30,16 @@ public class if_else {
         }else{
             System.out.println("Good Evening");
         }
+
+        //example: 04
+        int a = 20;
+        if(a < 10){
+            System.out.println("Equal");
+        }else if(a == 15){
+            System.out.println("It's Right");
+        }else{
+            System.out.println("Thank You!");
+        }
         
     }
 }
