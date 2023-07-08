@@ -6,6 +6,5 @@ public class indentifires {
         int two = 60;
         System.out.println(one);
         System.out.println(two);
-
     }
 }
