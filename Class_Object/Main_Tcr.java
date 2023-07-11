@@ -17,16 +17,16 @@ public class Main_Tcr {
         System.out.println("Hello Peoples...");
     }
 
+
+
+
     public static void main(String[] args){
-
         //1st person call
-
         Teacher teacher1 = new Teacher();
 
-        teacher1.name = "Anisul Islam";
+        teacher1.name = "ABDULLAH - AL JIAD";
         teacher1.gender = "Male";
-        teacher1.num = 1995546287;
-
+        teacher1.num = 1996622222;
         System.out.println("\n"+teacher1.name + "\n" + teacher1.gender + "\n" + teacher1.num);
 
         //2nd person call
@@ -90,5 +90,20 @@ public class Main_Tcr {
         //rename a function of "bd_main"; //for Attribute is : "Public";
         Main_Tcr myobjj = new Main_Tcr();
         myobjj.bd_main();
+
+
+
+
+        //Class of "Web_Developer"
+
+        Web_Developer Fullstack = new Web_Developer();
+
+        Fullstack.Name = "ABDULLAH - AL JIAD";
+        Fullstack.Skill = "WEB DEVELOPER";
+        Fullstack.Language = "C/ C++/ JAVA/ JAVA SCRIPT/ HTML/ CSS";
+        System.out.println(Fullstack.Name+""+Fullstack.Skill+""+Fullstack.Language);
+
+
+
     }
 }
