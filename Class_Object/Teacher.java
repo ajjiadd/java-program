@@ -5,3 +5,6 @@ public class Teacher {
     int num;
     float point;
 }
+
+//this class use for "Main_tcr.java"}
+//It's a class... 

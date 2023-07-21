@@ -29,6 +29,7 @@ public class Main_Tcr {
         teacher1.num = 1996622222;
         System.out.println("\n"+teacher1.name + "\n" + teacher1.gender + "\n" + teacher1.num);
 
+
         //2nd person call
 
         Teacher teacher2 = new Teacher();
@@ -105,5 +106,7 @@ public class Main_Tcr {
 
 
 
+        }    
+    
     }
-}
+
